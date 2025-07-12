@@ -8,7 +8,7 @@ I do mostly read books on electronic format, so I can highlight and sync cross-d
 
 After I read a couple of chapters or by the end of the book – right when _recalling_ is most effective – is when I transcribe those highlights down to notes. When transcribing, I do split my screen in two; I open the book with the highlights synced on one side, and the text editor on the other side, so I can transcribe while scanning for highlights. I do not copy and paste the highlights from the book – sometimes this is not even allowed by the reading app because of DRM – I do type every highlight by hand; otherwise there would be no point. I do this for learning and retaining knowledge. Summaries are a side-effect of the process, not the goal.
 
-I experimented with a few e-ink readers, specially for technical books I found the of iPad mini and the MacBook Pro the perfect match. With Apple devices, I often use the Apple store to buy books and the Books app for reading them, it syncs my ebooks beautifully across multiple devices. Lately I found the Amazon store and Kindle app quite interesting as it allows me to later on sync with Linux devices too.
+
 
 For writing down the notes, I do usually use [VSCode](https://code.visualstudio.com/) with [Markdown TOC extension](https://github.com/huntertran/markdown-toc.git).
 
